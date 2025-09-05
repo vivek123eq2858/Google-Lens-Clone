@@ -17,7 +17,7 @@ This project is a **Google Lens Clone** built with Python. It allows users to ca
 
 ## 📂 Project Structure
 GoogleLensClone/
-│── google_lens_clone.py # Main application file
+│── app.py # Main application file
 │── README.md # Project documentation
 
 
